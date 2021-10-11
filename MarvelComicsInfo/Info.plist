@@ -65,9 +65,9 @@
 	<key>MarvelConfig</key>
 	<dict>
 		<key>apiKey</key>
-		<string>1a0f7e3c0f5263dd08d040d3a34392ea</string>
+		<string></string>
 		<key>secret</key>
-		<string>65f5edb9d790dea1578a8b95062f9413fe90b20d</string>
+		<string></string>
 	</dict>
 </dict>
 </plist>
