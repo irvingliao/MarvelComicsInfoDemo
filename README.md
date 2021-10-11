@@ -5,7 +5,7 @@ Simple Demo iOS app for Marvel Comics Info, which will utilize the Marvel Develo
 - Xcode 12 or above
 
 ## Initial setup
-install dependencies by using CocoaPods (https://cocoapods.org/)
+install dependencies by using CocoaPods (https://cocoapods.org/) <br />
 `pod install`
 
 **Dependencies** <br />
